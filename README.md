@@ -23,7 +23,7 @@
 
 <p>I'm currently working on <a href="https://edulinx.vercel.app" target="_blank" rel="noopener noreferrer">Edulinx</a>, an innovative education platform.</p>
 
-<p>I'm passionate about learning and currently expanding my skills in full-stack development and AI.</p>
+<p>I'm passionate about learning and currently expanding my skills in python and AI.</p>
 
 <p>If you'd like to get in touch, you can reach me at <a href="mailto:mashhoorahdal1@gmail.com">mashhoorahdal1@gmail.com</a>.</p>
 
