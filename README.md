@@ -17,7 +17,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashhoor-ahdal&label=Profile%20views&color=0e75b6&style=flat" alt="mashhoor-ahdal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashhoor-ahdal" alt="mashhoor-ahdal" /></a> </p>
 
 <p align="left">I'm a frontend developer from India, specializing in creating beautiful and interactive web experiences.</p>
 
