@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Mashhoor Ahdal - Passionate Frontend Developer from India, mashhoor ahdal " >
+<meta name="description" content="Mashhoor Ahdal - Passionate PYTHON Developer from India, mashhoor ahdal " >
 <meta name="keywords" content ="mashhoor ahdal, github of mashhoor ahdal >
 <title>Mashhoor Ahdal - Frontend Developer</title>
 
